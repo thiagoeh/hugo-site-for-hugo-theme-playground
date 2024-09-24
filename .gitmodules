@@ -1,6 +1,3 @@
-[submodule "hugo-theme-playground"]
-	path = hugo-theme-playground
-	url = https://github.com/thiagoeh/hugo-theme-playground.git
 [submodule "themes/hugo-theme-playground"]
 	path = themes/hugo-theme-playground
 	url = https://github.com/thiagoeh/hugo-theme-playground.git
